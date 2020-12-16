@@ -1,0 +1,14 @@
+application_hostname: '' 
+application_name: mlbparks
+generic_trigger_secret: 48fh28nf 
+git_ref: master
+git_uri: https://github.com/redhat-gpte-devopsautomation/openshift4mlbparks.git
+github_trigger_secret: 7glx62bd 
+maven_mirror_url: '' 
+mongodb_admin_password: hgnm49gd 
+mongodb_database: root
+mongodb_noprealloc: '' 
+mongodb_password: 865hgb21 
+mongodb_quiet: '' 
+mongodb_smallfiles: '' 
+mongodb_user: mongodb 
